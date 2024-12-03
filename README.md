@@ -1,2 +1,2 @@
 # Tourism
-Tours+ism in india
+Tourism in india
